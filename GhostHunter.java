@@ -93,7 +93,7 @@ public class GhostHunter extends JFrame { //GhostHunter, class with JFrame of my
 
 class Panel_ghost extends JPanel { //class with all my graphics and gameplay
 
-    static String delete = ""; //for my personal laptop
+    static String delete = "assets/";
 
     static int score = 0;
 
